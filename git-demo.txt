@@ -1,0 +1,17 @@
+open -- 18   -- High
+close -- 3
+
+open -- 14   -- Medium
+close
+
+open -- 13  -- Low
+close
+
+
+did you test ==  WR
+check that the alaram is audiable: WR
+open and clean -- no action 
+does all hooters -- cm review
+
+
+
