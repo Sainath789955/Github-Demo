@@ -12,6 +12,8 @@ did you test ==  WR
 check that the alaram is audiable: WR
 open and clean -- no action 
 does all hooters -- cm review
+ 
+test 8879
 
 
 
